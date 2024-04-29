@@ -6,6 +6,8 @@ Between these years there has been a considerate amound of change from hay field
 
 
 
-For the project data was used from KYFromAbove which is maintained by the state of Kentucky the data was used to show the change from the years 2001 AND 2019.
+For the project data was used from KYFromAbove.gov which is maintained by the state of Kentucky the data was used to show the change from the years 2001 AND 2019 and NAIP Aerial imagery from https://kyraster.ky.gov
+
+
 The project was created by AlyssaMB26 as a part of Module 6 for GEO409
 
